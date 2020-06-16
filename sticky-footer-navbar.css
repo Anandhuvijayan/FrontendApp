@@ -1,0 +1,26 @@
+main > .container {
+  padding: 60px 15px 0;
+  text-align: center;
+}
+
+.footer {
+  background-color: #5a5252;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+#outer {
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+div.inner {
+  display: inline;
+}
